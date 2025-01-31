@@ -53,3 +53,4 @@ target/
 
 # Javadoc generated files
 **/apidocs/
+/HelloWorld/nbproject/private/
